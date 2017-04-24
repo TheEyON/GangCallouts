@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GangCallouts.CommonStuff
 {
-    class WeaponLists
+    class Weapons
     {
     }
 }

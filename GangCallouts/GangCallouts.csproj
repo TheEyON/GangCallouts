@@ -58,8 +58,8 @@
     <Compile Include="Callouts\PrTransportAttack.cs" />
     <Compile Include="Callouts\Shootout.cs" />
     <Compile Include="Callouts\DriveBy.cs" />
-    <Compile Include="CommonStuff\WeaponLists.cs" />
-    <Compile Include="CommonStuff\PedLists.cs" />
+    <Compile Include="CommonStuff\Weapons.cs" />
+    <Compile Include="CommonStuff\Peds.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
