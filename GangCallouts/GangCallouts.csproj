@@ -31,12 +31,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="LMS.Common">
+      <HintPath>bin\Debug\References\LMS.Common.dll</HintPath>
+    </Reference>
     <Reference Include="LSPD First Response">
-      <HintPath>..\..\..\GTA-APIs\plugins\LSPD First Response.dll</HintPath>
+      <HintPath>bin\Debug\References\LSPD First Response.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="RAGENativeUI">
+      <HintPath>bin\Debug\References\RAGENativeUI.dll</HintPath>
+    </Reference>
+    <Reference Include="RagePluginHook">
+      <HintPath>bin\Debug\References\RagePluginHook.dll</HintPath>
+    </Reference>
     <Reference Include="RagePluginHookSDK">
-      <HintPath>..\..\..\GTA-APIs\SDK\RagePluginHookSDK.dll</HintPath>
+      <HintPath>bin\Debug\References\RagePluginHookSDK.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
