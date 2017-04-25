@@ -1,0 +1,8 @@
+C:\Users\Aerial\Documents\Visual Studio 2015\Projects\GangCallouts\GangCallouts\obj\Debug\GangCallouts.csprojResolveAssemblyReference.cache
+C:\Users\Aerial\Documents\Visual Studio 2015\Projects\GangCallouts\GangCallouts\bin\Debug\GangCallouts.dll
+C:\Users\Aerial\Documents\Visual Studio 2015\Projects\GangCallouts\GangCallouts\bin\Debug\GangCallouts.pdb
+C:\Users\Aerial\Documents\Visual Studio 2015\Projects\GangCallouts\GangCallouts\obj\Debug\GangCallouts.dll
+C:\Users\Aerial\Documents\Visual Studio 2015\Projects\GangCallouts\GangCallouts\obj\Debug\GangCallouts.pdb
+C:\Users\Aerial\Documents\Visual Studio 2015\Projects\Github\Gang callouts\GangCallouts\obj\Debug\GangCallouts.csprojResolveAssemblyReference.cache
+C:\Users\Aerial\Documents\Visual Studio 2015\Projects\Github\Gang callouts\GangCallouts\obj\Debug\GangCallouts.dll
+C:\Users\Aerial\Documents\Visual Studio 2015\Projects\Github\Gang callouts\GangCallouts\obj\Debug\GangCallouts.pdb
