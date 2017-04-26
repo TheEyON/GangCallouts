@@ -12,13 +12,13 @@ namespace GangCallouts.CommonStuff
     class weapons
     {
         //-----------------------------------------------------------------------------------
-        // Families
+        // Brawl
             public static string[] families = new string[] 
                 {
                 "g_f_y_families_01", "g_m_y_famca_01", "g_m_y_famdnf_01", "g_m_y_famfor_01", "g_m_y_strpunk_02", "csb_ramp_gang"
                 };
         //-----------------------------------------------------------------------------------
-        // Ballas
+        // DriveBy
             public static string[] ballas = new string[]
                 {
                 "g_f_y_ballas_01", "g_m_y_ballaeast_01", "g_m_y_ballaorig_01", "g_m_y_ballasout_01", "g_m_y_strpunk_01", "csb_ballasog"
