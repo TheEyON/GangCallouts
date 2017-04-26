@@ -67,6 +67,8 @@
     <Compile Include="Callouts\PrTransportAttack.cs" />
     <Compile Include="Callouts\Shootout.cs" />
     <Compile Include="Callouts\DriveBy.cs" />
+    <Compile Include="CommonStuff\documentation.cs" />
+    <Compile Include="CommonStuff\weapons.cs" />
     <Compile Include="CommonStuff\pedFuncs.cs" />
     <Compile Include="CommonStuff\mafiaPeds.cs" />
     <Compile Include="CommonStuff\gangPeds.cs" />
